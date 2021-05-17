@@ -1,3 +1,15 @@
+# Temas puntuales de la sección
+
++ Constantes y variables Let
++ Template String
++ Objetos literales
++ Arreglos
++ Desestructruación
++ Promesas
++ Fetch API
++ Ternarios
++ Async - Await
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
